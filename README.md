@@ -6,7 +6,7 @@ Este proyecto consiste en un análisis de los datos de viajes de YellowCab en la
 
 - Velocidad media de los taxis en función de la hora.
 - Viajes en taxi más comunes.
-- Registros financieros (propinas, recuento de pasajeros, etc.).
+- Cantidad total pagada en función al número de pasajeros.
   
 Esto se consigue mediante la implementación de consultas mediante Spark SQL, DataFrames y RDDs. El objetivo principal es realizar un análisis de rendimiento comparativo entre estas técnicas.
 
