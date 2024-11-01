@@ -1,0 +1,1 @@
+{"Consulta":{"0":"Velocidad Media","1":"Viajes en Taxi M\u00e1s Comunes","2":"Cantidad Total Media Pagada"},"DataFrame (segundos)":{"0":9.5280053616,"1":1.8382332325,"2":1.5624005795},"SQL (segundos)":{"0":8.435904026,"1":1.4088363647,"2":0.8835654259},"RDD (segundos)":{"0":19.6583368778,"1":6.8023302555,"2":21.7105910778}}
