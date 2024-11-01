@@ -1,0 +1,8 @@
+Buenas noches,
+
+Aparte del notebook, hemos considerado oportuno adjuntar una carpeta zip con todos los ficheros JSON con los resultados de cada una de las ejecución de nuestro notebook con distinto número de cores. Pues de ejecutar el notebook, es necesario tener estos ficheros para realizar el análisis y gráficas del punto 7 del notebook.
+
+Muchas gracias por su atención.
+
+Un cordial saludo,
+Grupo D.
